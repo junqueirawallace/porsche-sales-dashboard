@@ -60,3 +60,9 @@ O HTML foi construído com auxílio do ChatGPT nesta conversa. O processo descri
 - [ ] O botão “Limpar filtros” restaura a visão completa.
 - [ ] O README contém o link real da dashboard publicada.
 - [ ] A entrega na DIO aponta para o repositório, não apenas para a página publicada.
+
+## Autor
+
+### Wallace F. Junqueira
+
+Graduado em Tecnologia em Logística. Estudante de Gestão da Tecnologia da Informação. Pós Graduado em MBA Data Warehouse e Business Intelligence
