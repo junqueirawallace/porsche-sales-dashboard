@@ -4,7 +4,8 @@ Dashboard web de arquivo único (`index.html`) criada para o desafio de análise
 
 **Ver dashboard online:** [COLE AQUI O LINK DO GITHUB PAGES]
 
-![Dashboard Porsche](imagens/dashboard-porsche.png)
+<img width="933" height="635" alt="dashboard-porsche" src="https://github.com/user-attachments/assets/0f1f2826-0e6f-49ac-9ed2-fd952f02a104" />
+
 
 ## Perguntas de negócio
 
