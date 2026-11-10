@@ -2,7 +2,7 @@
 
 Dashboard web de arquivo único (`index.html`) criada para o desafio de análise de vendas da Porsche da DIO. Usa HTML, CSS e JavaScript sem bibliotecas externas: filtros e gráficos funcionam direto no navegador.
 
-**Ver dashboard online:** [COLE AQUI O LINK DO GITHUB PAGES]
+**Ver dashboard online:** (https://junqueirawallace.github.io/porsche-sales-dashboard/)
 
 <img width="933" height="635" alt="dashboard-porsche" src="https://github.com/user-attachments/assets/0f1f2826-0e6f-49ac-9ed2-fd952f02a104" />
 
